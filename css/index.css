@@ -1,0 +1,31 @@
+body {
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:thistle;
+    margin: 2px;
+    text-align: justify;
+}
+  
+.perfil {
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+
+}
+
+.tabela{border-style:solid;
+border-color: black;
+text-align: center;}
+
+
+.tabela td, th{border-style:solid;
+border-color:black;
+padding:2vw;
+}
+
+
+.contato img {border-radius: 40%;
+display: flex justfy content; 
+width: 3%;
+padding: 5px;
+}
